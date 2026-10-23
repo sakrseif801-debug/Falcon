@@ -1,0 +1,485 @@
+2026-07-10 12:10:34,452 INFO bot: Starting VETBOT
+2026-07-10 12:10:40,497 ERROR bot: Exception while handling update None
+NoneType: None
+2026-07-10 12:10:46,436 ERROR bot: Exception while handling update None
+NoneType: None
+2026-07-10 12:10:53,517 ERROR bot: Exception while handling update None
+NoneType: None
+2026-07-10 12:10:59,407 ERROR bot: Exception while handling update None
+NoneType: None
+2026-07-10 12:11:08,330 ERROR bot: Exception while handling update None
+NoneType: None
+2026-07-10 12:11:20,543 ERROR bot: Exception while handling update None
+NoneType: None
+2026-07-10 12:11:36,455 ERROR bot: Exception while handling update None
+NoneType: None
+2026-07-10 12:11:58,032 ERROR bot: Exception while handling update None
+NoneType: None
+2026-07-10 12:12:29,041 ERROR bot: Exception while handling update None
+NoneType: None
+2026-07-10 12:13:03,590 ERROR bot: Exception while handling update None
+NoneType: None
+2026-07-10 12:13:38,193 ERROR bot: Exception while handling update None
+NoneType: None
+2026-07-10 12:14:12,786 ERROR bot: Exception while handling update None
+NoneType: None
+2026-07-10 12:14:47,533 ERROR bot: Exception while handling update None
+NoneType: None
+2026-07-10 12:27:50,202 INFO bot: Starting VETBOT
+2026-07-10 12:27:55,665 ERROR bot: Exception while handling update None
+NoneType: None
+2026-07-10 12:28:01,501 ERROR bot: Exception while handling update None
+NoneType: None
+2026-07-10 12:28:08,569 ERROR bot: Exception while handling update None
+NoneType: None
+2026-07-10 12:28:14,440 ERROR bot: Exception while handling update None
+NoneType: None
+2026-07-10 12:28:24,067 ERROR bot: Exception while handling update None
+NoneType: None
+2026-07-10 12:28:29,439 ERROR bot: Exception while handling update None
+NoneType: None
+2026-07-10 12:28:35,763 ERROR bot: Exception while handling update None
+NoneType: None
+2026-07-10 12:28:43,594 ERROR bot: Exception while handling update None
+NoneType: None
+2026-07-10 12:28:50,597 ERROR bot: Exception while handling update None
+NoneType: None
+2026-07-10 12:29:01,487 ERROR bot: Exception while handling update None
+NoneType: None
+2026-07-10 12:29:17,498 ERROR bot: Exception while handling update None
+NoneType: None
+2026-07-10 12:30:38,292 INFO bot: Starting VETBOT
+2026-07-10 12:30:43,500 ERROR bot: Exception while handling update None: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+NoneType: None
+2026-07-10 12:30:49,215 ERROR bot: Exception while handling update None: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+NoneType: None
+2026-07-10 12:30:55,072 ERROR bot: Exception while handling update None: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+NoneType: None
+2026-07-10 12:31:01,566 ERROR bot: Exception while handling update None: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+NoneType: None
+2026-07-10 12:31:06,836 ERROR bot: Exception while handling update None: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+NoneType: None
+2026-07-10 12:31:13,139 ERROR bot: Exception while handling update None: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+NoneType: None
+2026-07-10 12:31:20,918 ERROR bot: Exception while handling update None: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+NoneType: None
+2026-07-10 12:31:27,913 ERROR bot: Exception while handling update None: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+NoneType: None
+2026-07-10 12:31:39,355 ERROR bot: Exception while handling update None: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+NoneType: None
+2026-07-10 12:31:55,287 ERROR bot: Exception while handling update None: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+NoneType: None
+2026-07-10 12:32:11,314 ERROR bot: Exception while handling update None: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+NoneType: None
+2026-07-10 12:32:33,580 ERROR bot: Exception while handling update None: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+NoneType: None
+2026-07-10 12:33:03,704 INFO bot: Starting VETBOT
+2026-07-10 12:33:08,908 ERROR bot: Bot stopped because another instance is already polling: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-07-10 12:33:20,596 INFO bot: Starting VETBOT
+2026-07-10 12:33:25,695 ERROR bot: Bot stopped because another instance is already polling: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-07-10 14:01:59,296 INFO bot: Starting VETBOT
+2026-07-10 14:06:41,582 INFO bot: Starting VETBOT
+2026-07-10 14:06:42,729 ERROR bot: Bot stopped because another instance is already polling: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-07-10 14:07:54,218 INFO bot: Starting VETBOT
+2026-07-10 14:07:55,449 ERROR bot: Bot stopped because another instance is already polling: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-07-10 14:07:59,693 ERROR bot: Bot stopped because another instance is already polling: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-07-10 14:10:19,211 INFO bot: Starting VETBOT
+2026-07-10 14:22:27,489 INFO bot: Starting VETBOT
+2026-07-10 14:22:28,603 ERROR bot: Bot stopped because another instance is already polling: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-07-10 14:22:34,038 INFO bot: Starting VETBOT
+2026-07-10 14:22:35,005 ERROR bot: Bot stopped because another instance is already polling: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-07-10 14:22:39,216 ERROR bot: Bot stopped because another instance is already polling: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-07-10 14:23:50,426 INFO bot: Starting VETBOT
+2026-07-10 14:42:34,833 INFO bot: Starting VETBOT
+2026-07-10 14:47:07,647 INFO bot: Starting VETBOT
+2026-07-10 14:52:03,817 INFO bot: Starting VETBOT
+2026-07-10 15:04:42,685 INFO bot: Starting VETBOT
+2026-07-11 11:50:18,944 ERROR bot: Exception while handling update None: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+NoneType: None
+2026-07-11 11:50:19,971 ERROR bot: Exception while handling update None: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+NoneType: None
+2026-07-11 11:50:21,483 ERROR bot: Exception while handling update None: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+NoneType: None
+2026-07-11 11:50:23,755 ERROR bot: Exception while handling update None: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+NoneType: None
+2026-07-11 20:04:42,227 ERROR bot: Exception while handling update None: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+NoneType: None
+2026-07-11 20:04:43,221 ERROR bot: Exception while handling update None: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+NoneType: None
+2026-07-11 20:04:44,733 ERROR bot: Exception while handling update None: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+NoneType: None
+2026-07-11 20:04:46,993 ERROR bot: Exception while handling update None: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+NoneType: None
+2026-07-11 20:04:50,376 ERROR bot: Exception while handling update None: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+NoneType: None
+2026-07-11 20:04:55,451 ERROR bot: Exception while handling update None: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+NoneType: None
+2026-07-11 20:05:03,050 ERROR bot: Exception while handling update None: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+NoneType: None
+2026-07-11 20:05:14,459 ERROR bot: Exception while handling update None: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+NoneType: None
+2026-07-11 20:05:31,575 ERROR bot: Exception while handling update None: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+NoneType: None
+2026-07-11 20:05:57,223 ERROR bot: Exception while handling update None: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+NoneType: None
+2026-07-11 20:06:27,248 ERROR bot: Exception while handling update None: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+NoneType: None
+2026-07-11 20:06:57,263 ERROR bot: Exception while handling update None: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+NoneType: None
+2026-07-11 20:07:27,292 ERROR bot: Exception while handling update None: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+NoneType: None
+2026-07-11 20:07:57,313 ERROR bot: Exception while handling update None: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+NoneType: None
+2026-07-11 20:08:27,336 ERROR bot: Exception while handling update None: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+NoneType: None
+2026-07-11 20:08:57,356 ERROR bot: Exception while handling update None: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+NoneType: None
+2026-07-11 20:09:32,396 ERROR bot: Exception while handling update None: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+NoneType: None
+2026-07-11 20:09:33,414 ERROR bot: Exception while handling update None: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+NoneType: None
+2026-07-11 20:09:39,424 ERROR bot: Exception while handling update None: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+NoneType: None
+2026-07-11 20:09:41,690 ERROR bot: Exception while handling update None: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+NoneType: None
+2026-07-11 20:09:45,079 ERROR bot: Exception while handling update None: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+NoneType: None
+2026-07-11 20:09:50,169 ERROR bot: Exception while handling update None: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+NoneType: None
+2026-07-11 20:10:02,801 ERROR bot: Exception while handling update None: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+NoneType: None
+2026-07-11 20:10:03,826 ERROR bot: Exception while handling update None: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+NoneType: None
+2026-07-11 20:10:05,353 ERROR bot: Exception while handling update None: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+NoneType: None
+2026-07-11 20:10:09,818 ERROR bot: Exception while handling update None: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+NoneType: None
+2026-07-11 20:15:11,318 ERROR bot: Exception while handling update None: httpx.ReadError: 
+NoneType: None
+2026-07-12 14:27:02,812 ERROR bot: Exception while handling update Update(message=Message(channel_chat_created=False, chat=Chat(first_name='𝑺𝒆𝒊𝒇 𝑬𝒍𝒅𝒆𝒊𝒏', id=5756077206, last_name='𝑺𝒂𝒌𝒓', type=<ChatType.PRIVATE>, username='SEIF_ELDEIN_SAKR'), date=datetime.datetime(2026, 7, 12, 11, 3, 54, tzinfo=datetime.timezone.utc), delete_chat_photo=False, from_user=User(first_name='𝑺𝒆𝒊𝒇 𝑬𝒍𝒅𝒆𝒊𝒏', id=5756077206, is_bot=False, language_code='ar', last_name='𝑺𝒂𝒌𝒓', username='SEIF_ELDEIN_SAKR'), group_chat_created=False, message_id=120722, supergroup_chat_created=False, text='👤 My Profile'), update_id=979711909)
+Traceback (most recent call last):
+  File "C:\Users\METRO\Desktop\VETBOT\.venv\Lib\site-packages\httpx\_transports\default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "C:\Users\METRO\Desktop\VETBOT\.venv\Lib\site-packages\httpx\_transports\default.py", line 394, in handle_async_request
+    resp = await self._pool.handle_async_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\METRO\Desktop\VETBOT\.venv\Lib\site-packages\httpcore\_async\connection_pool.py", line 256, in handle_async_request
+    raise exc from None
+  File "C:\Users\METRO\Desktop\VETBOT\.venv\Lib\site-packages\httpcore\_async\connection_pool.py", line 236, in handle_async_request
+    response = await connection.handle_async_request(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        pool_request.request
+        ^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\METRO\Desktop\VETBOT\.venv\Lib\site-packages\httpcore\_async\connection.py", line 101, in handle_async_request
+    raise exc
+  File "C:\Users\METRO\Desktop\VETBOT\.venv\Lib\site-packages\httpcore\_async\connection.py", line 78, in handle_async_request
+    stream = await self._connect(request)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\METRO\Desktop\VETBOT\.venv\Lib\site-packages\httpcore\_async\connection.py", line 156, in _connect
+    stream = await stream.start_tls(**kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\METRO\Desktop\VETBOT\.venv\Lib\site-packages\httpcore\_backends\anyio.py", line 67, in start_tls
+    with map_exceptions(exc_map):
+         ~~~~~~~~~~~~~~^^^^^^^^^
+  File "C:\Users\METRO\AppData\Local\Python\pythoncore-3.14-64\Lib\contextlib.py", line 162, in __exit__
+    self.gen.throw(value)
+    ~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\METRO\Desktop\VETBOT\.venv\Lib\site-packages\httpcore\_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ConnectTimeout
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\METRO\Desktop\VETBOT\.venv\Lib\site-packages\telegram\request\_httpxrequest.py", line 279, in do_request
+    res = await self._client.request(
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\METRO\Desktop\VETBOT\.venv\Lib\site-packages\httpx\_client.py", line 1540, in request
+    return await self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\METRO\Desktop\VETBOT\.venv\Lib\site-packages\httpx\_client.py", line 1629, in send
+    response = await self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "C:\Users\METRO\Desktop\VETBOT\.venv\Lib\site-packages\httpx\_client.py", line 1657, in _send_handling_auth
+    response = await self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "C:\Users\METRO\Desktop\VETBOT\.venv\Lib\site-packages\httpx\_client.py", line 1694, in _send_handling_redirects
+    response = await self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\METRO\Desktop\VETBOT\.venv\Lib\site-packages\httpx\_client.py", line 1730, in _send_single_request
+    response = await transport.handle_async_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\METRO\Desktop\VETBOT\.venv\Lib\site-packages\httpx\_transports\default.py", line 393, in handle_async_request
+    with map_httpcore_exceptions():
+         ~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\METRO\AppData\Local\Python\pythoncore-3.14-64\Lib\contextlib.py", line 162, in __exit__
+    self.gen.throw(value)
+    ~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\METRO\Desktop\VETBOT\.venv\Lib\site-packages\httpx\_transports\default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ConnectTimeout
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\METRO\Desktop\VETBOT\.venv\Lib\site-packages\telegram\ext\_application.py", line 1315, in process_update
+    await coroutine
+  File "C:\Users\METRO\Desktop\VETBOT\.venv\Lib\site-packages\telegram\ext\_handlers\basehandler.py", line 159, in handle_update
+    return await self.callback(update, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\METRO\Desktop\VETBOT\handlers\student.py", line 101, in handle_text_menu
+    await profile(update, context)
+  File "c:\Users\METRO\Desktop\VETBOT\handlers\student.py", line 52, in profile
+    await update.message.reply_text(
+    ...<2 lines>...
+    )
+  File "C:\Users\METRO\Desktop\VETBOT\.venv\Lib\site-packages\telegram\_message.py", line 2228, in reply_text
+    return await self.get_bot().send_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<21 lines>...
+    )
+    ^
+  File "C:\Users\METRO\Desktop\VETBOT\.venv\Lib\site-packages\telegram\ext\_extbot.py", line 3150, in send_message
+    return await super().send_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<23 lines>...
+    )
+    ^
+  File "C:\Users\METRO\Desktop\VETBOT\.venv\Lib\site-packages\telegram\_bot.py", line 1138, in send_message
+    return await self._send_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<21 lines>...
+    )
+    ^
+  File "C:\Users\METRO\Desktop\VETBOT\.venv\Lib\site-packages\telegram\ext\_extbot.py", line 638, in _send_message
+    result = await super()._send_message(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<23 lines>...
+    )
+    ^
+  File "C:\Users\METRO\Desktop\VETBOT\.venv\Lib\site-packages\telegram\_bot.py", line 828, in _send_message
+    result = await self._post(
+             ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\METRO\Desktop\VETBOT\.venv\Lib\site-packages\telegram\_bot.py", line 712, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\METRO\Desktop\VETBOT\.venv\Lib\site-packages\telegram\ext\_extbot.py", line 378, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\METRO\Desktop\VETBOT\.venv\Lib\site-packages\telegram\_bot.py", line 741, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\METRO\Desktop\VETBOT\.venv\Lib\site-packages\telegram\request\_baserequest.py", line 198, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\METRO\Desktop\VETBOT\.venv\Lib\site-packages\telegram\request\_baserequest.py", line 305, in _request_wrapper
+    code, payload = await self.do_request(
+                    ^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\METRO\Desktop\VETBOT\.venv\Lib\site-packages\telegram\request\_httpxrequest.py", line 296, in do_request
+    raise TimedOut from err
+telegram.error.TimedOut: Timed out
+2026-07-12 14:53:12,591 INFO bot: Starting VETBOT
+2026-07-12 16:14:45,819 INFO bot: Starting VETBOT
+2026-07-12 16:15:08,656 ERROR bot: Exception while handling update Update(message=Message(channel_chat_created=False, chat=Chat(first_name='𝑺𝒆𝒊𝒇 𝑬𝒍𝒅𝒆𝒊𝒏', id=5756077206, last_name='𝑺𝒂𝒌𝒓', type=<ChatType.PRIVATE>, username='SEIF_ELDEIN_SAKR'), date=datetime.datetime(2026, 7, 12, 13, 15, 6, tzinfo=datetime.timezone.utc), delete_chat_photo=False, from_user=User(first_name='𝑺𝒆𝒊𝒇 𝑬𝒍𝒅𝒆𝒊𝒏', id=5756077206, is_bot=False, language_code='en', last_name='𝑺𝒂𝒌𝒓', username='SEIF_ELDEIN_SAKR'), group_chat_created=False, message_id=120769, supergroup_chat_created=False, text='📢 Announcements'), update_id=979711933)
+Traceback (most recent call last):
+  File "C:\Users\METRO\Desktop\VETBOT\.venv\Lib\site-packages\telegram\ext\_application.py", line 1315, in process_update
+    await coroutine
+  File "C:\Users\METRO\Desktop\VETBOT\.venv\Lib\site-packages\telegram\ext\_handlers\basehandler.py", line 159, in handle_update
+    return await self.callback(update, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\METRO\Desktop\VETBOT\handlers\student.py", line 126, in handle_menu_clicks
+    await show_announcements(update, context)
+  File "C:\Users\METRO\Desktop\VETBOT\handlers\student.py", line 416, in show_announcements
+    announcements = service.get_announcements_for_student(user["academic_year"], user["semester"])
+  File "C:\Users\METRO\Desktop\VETBOT\services\bot_service.py", line 211, in get_announcements_for_student
+    rows = conn.execute(
+           ~~~~~~~~~~~~^
+        "SELECT * FROM notifications WHERE target_type = 'all' OR target_year = ? OR target_semester = ? ORDER BY id DESC",
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        (academic_year, semester)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^
+    ).fetchall()
+    ^
+sqlite3.OperationalError: no such column: target_year
+2026-07-12 16:16:00,417 ERROR bot: Exception while handling update Update(message=Message(channel_chat_created=False, chat=Chat(first_name='𝑺𝒆𝒊𝒇 𝑬𝒍𝒅𝒆𝒊𝒏', id=5756077206, last_name='𝑺𝒂𝒌𝒓', type=<ChatType.PRIVATE>, username='SEIF_ELDEIN_SAKR'), date=datetime.datetime(2026, 7, 12, 13, 15, 58, tzinfo=datetime.timezone.utc), delete_chat_photo=False, from_user=User(first_name='𝑺𝒆𝒊𝒇 𝑬𝒍𝒅𝒆𝒊𝒏', id=5756077206, is_bot=False, language_code='en', last_name='𝑺𝒂𝒌𝒓', username='SEIF_ELDEIN_SAKR'), group_chat_created=False, message_id=120776, supergroup_chat_created=False, text='📢 Announcements'), update_id=979711939)
+Traceback (most recent call last):
+  File "C:\Users\METRO\Desktop\VETBOT\.venv\Lib\site-packages\telegram\ext\_application.py", line 1315, in process_update
+    await coroutine
+  File "C:\Users\METRO\Desktop\VETBOT\.venv\Lib\site-packages\telegram\ext\_handlers\basehandler.py", line 159, in handle_update
+    return await self.callback(update, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\METRO\Desktop\VETBOT\handlers\student.py", line 126, in handle_menu_clicks
+    await show_announcements(update, context)
+  File "C:\Users\METRO\Desktop\VETBOT\handlers\student.py", line 416, in show_announcements
+    announcements = service.get_announcements_for_student(user["academic_year"], user["semester"])
+  File "C:\Users\METRO\Desktop\VETBOT\services\bot_service.py", line 211, in get_announcements_for_student
+    rows = conn.execute(
+           ~~~~~~~~~~~~^
+        "SELECT * FROM notifications WHERE target_type = 'all' OR target_year = ? OR target_semester = ? ORDER BY id DESC",
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        (academic_year, semester)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^
+    ).fetchall()
+    ^
+sqlite3.OperationalError: no such column: target_year
+2026-07-12 16:16:01,932 ERROR bot: Exception while handling update Update(message=Message(channel_chat_created=False, chat=Chat(first_name='𝑺𝒆𝒊𝒇 𝑬𝒍𝒅𝒆𝒊𝒏', id=5756077206, last_name='𝑺𝒂𝒌𝒓', type=<ChatType.PRIVATE>, username='SEIF_ELDEIN_SAKR'), date=datetime.datetime(2026, 7, 12, 13, 15, 59, tzinfo=datetime.timezone.utc), delete_chat_photo=False, from_user=User(first_name='𝑺𝒆𝒊𝒇 𝑬𝒍𝒅𝒆𝒊𝒏', id=5756077206, is_bot=False, language_code='en', last_name='𝑺𝒂𝒌𝒓', username='SEIF_ELDEIN_SAKR'), group_chat_created=False, message_id=120778, supergroup_chat_created=False, text='👤 My Profile'), update_id=979711940)
+Traceback (most recent call last):
+  File "C:\Users\METRO\Desktop\VETBOT\.venv\Lib\site-packages\telegram\ext\_application.py", line 1315, in process_update
+    await coroutine
+  File "C:\Users\METRO\Desktop\VETBOT\.venv\Lib\site-packages\telegram\ext\_handlers\basehandler.py", line 159, in handle_update
+    return await self.callback(update, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\METRO\Desktop\VETBOT\handlers\student.py", line 128, in handle_menu_clicks
+    await show_profile(update, context)
+  File "C:\Users\METRO\Desktop\VETBOT\handlers\student.py", line 397, in show_profile
+    results_count = service.get_user_exams_count(user_id)
+  File "C:\Users\METRO\Desktop\VETBOT\services\bot_service.py", line 55, in get_user_exams_count
+    row = conn.execute("SELECT COUNT(*) FROM exam_results WHERE user_id = ?", (user_id,)).fetchone()
+          ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such table: exam_results
+2026-07-12 16:17:31,512 ERROR bot: Exception while handling update Update(message=Message(channel_chat_created=False, chat=Chat(first_name='𝑺𝒆𝒊𝒇 𝑬𝒍𝒅𝒆𝒊𝒏', id=5756077206, last_name='𝑺𝒂𝒌𝒓', type=<ChatType.PRIVATE>, username='SEIF_ELDEIN_SAKR'), date=datetime.datetime(2026, 7, 12, 13, 17, 29, tzinfo=datetime.timezone.utc), delete_chat_photo=False, from_user=User(first_name='𝑺𝒆𝒊𝒇 𝑬𝒍𝒅𝒆𝒊𝒏', id=5756077206, is_bot=False, language_code='en', last_name='𝑺𝒂𝒌𝒓', username='SEIF_ELDEIN_SAKR'), group_chat_created=False, message_id=120786, supergroup_chat_created=False, text='📢 Announcements'), update_id=979711944)
+Traceback (most recent call last):
+  File "C:\Users\METRO\Desktop\VETBOT\.venv\Lib\site-packages\telegram\ext\_application.py", line 1315, in process_update
+    await coroutine
+  File "C:\Users\METRO\Desktop\VETBOT\.venv\Lib\site-packages\telegram\ext\_handlers\basehandler.py", line 159, in handle_update
+    return await self.callback(update, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\METRO\Desktop\VETBOT\handlers\student.py", line 126, in handle_menu_clicks
+    await show_announcements(update, context)
+  File "C:\Users\METRO\Desktop\VETBOT\handlers\student.py", line 416, in show_announcements
+    announcements = service.get_announcements_for_student(user["academic_year"], user["semester"])
+  File "C:\Users\METRO\Desktop\VETBOT\services\bot_service.py", line 211, in get_announcements_for_student
+    rows = conn.execute(
+           ~~~~~~~~~~~~^
+        "SELECT * FROM notifications WHERE target_type = 'all' OR target_year = ? OR target_semester = ? ORDER BY id DESC",
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        (academic_year, semester)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^
+    ).fetchall()
+    ^
+sqlite3.OperationalError: no such column: target_year
+2026-07-12 16:17:35,945 ERROR bot: Exception while handling update Update(message=Message(channel_chat_created=False, chat=Chat(first_name='𝑺𝒆𝒊𝒇 𝑬𝒍𝒅𝒆𝒊𝒏', id=5756077206, last_name='𝑺𝒂𝒌𝒓', type=<ChatType.PRIVATE>, username='SEIF_ELDEIN_SAKR'), date=datetime.datetime(2026, 7, 12, 13, 17, 33, tzinfo=datetime.timezone.utc), delete_chat_photo=False, from_user=User(first_name='𝑺𝒆𝒊𝒇 𝑬𝒍𝒅𝒆𝒊𝒏', id=5756077206, is_bot=False, language_code='en', last_name='𝑺𝒂𝒌𝒓', username='SEIF_ELDEIN_SAKR'), group_chat_created=False, message_id=120788, supergroup_chat_created=False, text='👤 My Profile'), update_id=979711945)
+Traceback (most recent call last):
+  File "C:\Users\METRO\Desktop\VETBOT\.venv\Lib\site-packages\telegram\ext\_application.py", line 1315, in process_update
+    await coroutine
+  File "C:\Users\METRO\Desktop\VETBOT\.venv\Lib\site-packages\telegram\ext\_handlers\basehandler.py", line 159, in handle_update
+    return await self.callback(update, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\METRO\Desktop\VETBOT\handlers\student.py", line 128, in handle_menu_clicks
+    await show_profile(update, context)
+  File "C:\Users\METRO\Desktop\VETBOT\handlers\student.py", line 397, in show_profile
+    results_count = service.get_user_exams_count(user_id)
+  File "C:\Users\METRO\Desktop\VETBOT\services\bot_service.py", line 55, in get_user_exams_count
+    row = conn.execute("SELECT COUNT(*) FROM exam_results WHERE user_id = ?", (user_id,)).fetchone()
+          ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such table: exam_results
+2026-07-12 16:17:44,005 ERROR bot: Exception while handling update Update(message=Message(channel_chat_created=False, chat=Chat(first_name='𝑺𝒆𝒊𝒇 𝑬𝒍𝒅𝒆𝒊𝒏', id=5756077206, last_name='𝑺𝒂𝒌𝒓', type=<ChatType.PRIVATE>, username='SEIF_ELDEIN_SAKR'), date=datetime.datetime(2026, 7, 12, 13, 17, 41, tzinfo=datetime.timezone.utc), delete_chat_photo=False, from_user=User(first_name='𝑺𝒆𝒊𝒇 𝑬𝒍𝒅𝒆𝒊𝒏', id=5756077206, is_bot=False, language_code='en', last_name='𝑺𝒂𝒌𝒓', username='SEIF_ELDEIN_SAKR'), group_chat_created=False, message_id=120796, supergroup_chat_created=False, text='📢 Announcements'), update_id=979711949)
+Traceback (most recent call last):
+  File "C:\Users\METRO\Desktop\VETBOT\.venv\Lib\site-packages\telegram\ext\_application.py", line 1315, in process_update
+    await coroutine
+  File "C:\Users\METRO\Desktop\VETBOT\.venv\Lib\site-packages\telegram\ext\_handlers\basehandler.py", line 159, in handle_update
+    return await self.callback(update, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\METRO\Desktop\VETBOT\handlers\student.py", line 126, in handle_menu_clicks
+    await show_announcements(update, context)
+  File "C:\Users\METRO\Desktop\VETBOT\handlers\student.py", line 416, in show_announcements
+    announcements = service.get_announcements_for_student(user["academic_year"], user["semester"])
+  File "C:\Users\METRO\Desktop\VETBOT\services\bot_service.py", line 211, in get_announcements_for_student
+    rows = conn.execute(
+           ~~~~~~~~~~~~^
+        "SELECT * FROM notifications WHERE target_type = 'all' OR target_year = ? OR target_semester = ? ORDER BY id DESC",
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        (academic_year, semester)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^
+    ).fetchall()
+    ^
+sqlite3.OperationalError: no such column: target_year
+2026-07-12 16:17:51,172 ERROR bot: Exception while handling update Update(message=Message(channel_chat_created=False, chat=Chat(first_name='𝑺𝒆𝒊𝒇 𝑬𝒍𝒅𝒆𝒊𝒏', id=5756077206, last_name='𝑺𝒂𝒌𝒓', type=<ChatType.PRIVATE>, username='SEIF_ELDEIN_SAKR'), date=datetime.datetime(2026, 7, 12, 13, 17, 49, tzinfo=datetime.timezone.utc), delete_chat_photo=False, from_user=User(first_name='𝑺𝒆𝒊𝒇 𝑬𝒍𝒅𝒆𝒊𝒏', id=5756077206, is_bot=False, language_code='en', last_name='𝑺𝒂𝒌𝒓', username='SEIF_ELDEIN_SAKR'), group_chat_created=False, message_id=120800, supergroup_chat_created=False, text='📢 Announcements'), update_id=979711951)
+Traceback (most recent call last):
+  File "C:\Users\METRO\Desktop\VETBOT\.venv\Lib\site-packages\telegram\ext\_application.py", line 1315, in process_update
+    await coroutine
+  File "C:\Users\METRO\Desktop\VETBOT\.venv\Lib\site-packages\telegram\ext\_handlers\basehandler.py", line 159, in handle_update
+    return await self.callback(update, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\METRO\Desktop\VETBOT\handlers\student.py", line 126, in handle_menu_clicks
+    await show_announcements(update, context)
+  File "C:\Users\METRO\Desktop\VETBOT\handlers\student.py", line 416, in show_announcements
+    announcements = service.get_announcements_for_student(user["academic_year"], user["semester"])
+  File "C:\Users\METRO\Desktop\VETBOT\services\bot_service.py", line 211, in get_announcements_for_student
+    rows = conn.execute(
+           ~~~~~~~~~~~~^
+        "SELECT * FROM notifications WHERE target_type = 'all' OR target_year = ? OR target_semester = ? ORDER BY id DESC",
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        (academic_year, semester)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^
+    ).fetchall()
+    ^
+sqlite3.OperationalError: no such column: target_year
+2026-07-12 16:17:52,045 ERROR bot: Exception while handling update Update(message=Message(channel_chat_created=False, chat=Chat(first_name='𝑺𝒆𝒊𝒇 𝑬𝒍𝒅𝒆𝒊𝒏', id=5756077206, last_name='𝑺𝒂𝒌𝒓', type=<ChatType.PRIVATE>, username='SEIF_ELDEIN_SAKR'), date=datetime.datetime(2026, 7, 12, 13, 17, 49, tzinfo=datetime.timezone.utc), delete_chat_photo=False, from_user=User(first_name='𝑺𝒆𝒊𝒇 𝑬𝒍𝒅𝒆𝒊𝒏', id=5756077206, is_bot=False, language_code='en', last_name='𝑺𝒂𝒌𝒓', username='SEIF_ELDEIN_SAKR'), group_chat_created=False, message_id=120802, supergroup_chat_created=False, text='👤 My Profile'), update_id=979711952)
+Traceback (most recent call last):
+  File "C:\Users\METRO\Desktop\VETBOT\.venv\Lib\site-packages\telegram\ext\_application.py", line 1315, in process_update
+    await coroutine
+  File "C:\Users\METRO\Desktop\VETBOT\.venv\Lib\site-packages\telegram\ext\_handlers\basehandler.py", line 159, in handle_update
+    return await self.callback(update, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\METRO\Desktop\VETBOT\handlers\student.py", line 128, in handle_menu_clicks
+    await show_profile(update, context)
+  File "C:\Users\METRO\Desktop\VETBOT\handlers\student.py", line 397, in show_profile
+    results_count = service.get_user_exams_count(user_id)
+  File "C:\Users\METRO\Desktop\VETBOT\services\bot_service.py", line 55, in get_user_exams_count
+    row = conn.execute("SELECT COUNT(*) FROM exam_results WHERE user_id = ?", (user_id,)).fetchone()
+          ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such table: exam_results
+2026-07-12 16:25:55,077 INFO bot: Starting VETBOT
+2026-07-12 16:31:28,111 INFO bot: Starting VETBOT
+2026-07-12 16:32:01,751 ERROR VetAdmin: Error fetching stats: no such table: lecture_materials
+2026-07-12 16:38:42,750 INFO bot: Starting VETBOT
+2026-07-12 16:38:59,723 ERROR bot: Exception while handling update Update(message=Message(channel_chat_created=False, chat=Chat(first_name='𝑺𝒆𝒊𝒇 𝑬𝒍𝒅𝒆𝒊𝒏', id=5756077206, last_name='𝑺𝒂𝒌𝒓', type=<ChatType.PRIVATE>, username='SEIF_ELDEIN_SAKR'), date=datetime.datetime(2026, 7, 12, 13, 38, 57, tzinfo=datetime.timezone.utc), delete_chat_photo=False, from_user=User(first_name='𝑺𝒆𝒊𝒇 𝑬𝒍𝒅𝒆𝒊𝒏', id=5756077206, is_bot=False, language_code='en', last_name='𝑺𝒂𝒌𝒓', username='SEIF_ELDEIN_SAKR'), group_chat_created=False, message_id=120820, supergroup_chat_created=False, text='📢 Announcements'), update_id=979711962)
+Traceback (most recent call last):
+  File "C:\Users\METRO\Desktop\VETBOT\.venv\Lib\site-packages\telegram\ext\_application.py", line 1315, in process_update
+    await coroutine
+  File "C:\Users\METRO\Desktop\VETBOT\.venv\Lib\site-packages\telegram\ext\_handlers\basehandler.py", line 159, in handle_update
+    return await self.callback(update, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\METRO\Desktop\VETBOT\handlers\student.py", line 399, in general_text_router
+    announcements = service.get_announcements_for_student(user["academic_year"], user["semester"]) if user else []
+                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\METRO\Desktop\VETBOT\services\bot_service.py", line 211, in get_announcements_for_student
+    rows = conn.execute(
+           ~~~~~~~~~~~~^
+        "SELECT * FROM notifications WHERE target_type = 'all' OR target_year = ? OR target_semester = ? ORDER BY id DESC",
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        (academic_year, semester)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^
+    ).fetchall()
+    ^
+sqlite3.OperationalError: no such column: target_year
